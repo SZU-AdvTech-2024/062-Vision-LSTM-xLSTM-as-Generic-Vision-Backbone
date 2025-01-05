@@ -1,0 +1,6 @@
+@article{REPO062,
+    author = {Alkin, Benedikt and Beck, Maximilian and P{\"o}ppel, Korbinian and Hochreiter, Sepp and Brandstetter, Johannes},
+    journal = "arXiv preprint arXiv:2406.04303",
+    title = "{{Vision-LSTM}: {xLSTM} as Generic Vision Backbone}",
+    year = "2024"
+}
